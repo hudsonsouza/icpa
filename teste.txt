@@ -2,5 +2,3 @@ Olá mundo GitHub!
 git
 hub
 comandos
-
-este comando esta errado
