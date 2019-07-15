@@ -1,0 +1,16 @@
+
+
+
+Revert "codigo errado"
+
+This reverts commit fbec66c4ef473b846534df5ee8839c17cbb81c1f.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# No ramo master
+# Your branch is up to date with 'origin/master'.
+#
+# Mudanças a serem submetidas:
+#	modified:   teste.txt
+#
