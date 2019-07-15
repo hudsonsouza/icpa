@@ -5,3 +5,6 @@ comandos
 
 estou utiliznnod o Breanch Mauro para o novo código
 eu mudei para o Mauro
+
+o Breanch muda o Ramo do Git,
+assim eu posso usar outra pessoa para trb junto
